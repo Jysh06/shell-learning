@@ -4,7 +4,7 @@
 For loops are used to iterate over a sequence of values. They're perfect for processing lists, files, or ranges.
 
 ---
-
+    
 ## Basic For Loop Syntax
 
 ```bash
